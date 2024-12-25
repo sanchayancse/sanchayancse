@@ -6,7 +6,7 @@ Full Stack Developer
 
 I am a Full-Stack Developer having good hands-on experience with Node JS, MongoDB, React JS, Next JS, Graphql, Javascript, Typescript, React Native, and Socket.io, Redis
 
-* 🌍  I'm based in Bangalore
+* 🌍  I'm based in Kolkata
 * ✉️  You can contact me at [sanchayandas1996@gmail.com](mailto:sanchayandas1996@gmail.com)
 * 🧠  I'm learning REACT NATIVE ADVANCE
 * 🤝  I'm open to collaborating on projects
